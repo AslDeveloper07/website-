@@ -1,0 +1,35 @@
+body {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.square {
+  width: 400px;
+  background-color: blue;
+  text-align: center;
+  border-radius: 50%;
+  padding: 140px 80px;
+  color: white;
+  position: relative;
+  left: 50px;
+  top: 60px;
+}
+
+h1 {
+  font-size: 30px;
+}
+
+p {
+  font-size: 18px;
+}
+
+.btn {
+  background-color: transparent;
+  color: white;
+  border: 2px solid white;
+  border-radius: 30px;
+  padding: 15px 30px;
+  font-size: 20px;
+  margin-top: 30px;
+}
+
+/*# sourceMappingURL=style.css.map */
