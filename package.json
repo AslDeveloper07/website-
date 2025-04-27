@@ -1,0 +1,24 @@
+{
+  "name": "website-",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "sass": "sass scss:css --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AslDeveloper07/website-.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AslDeveloper07/website-/issues"
+  },
+  "homepage": "https://github.com/AslDeveloper07/website-#readme",
+  "devDependencies": {
+    "sass": "^1.87.0"
+  }
+}
